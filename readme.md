@@ -16,7 +16,9 @@
 ## Instructions:
 To run the project press the green arrow at the top of you IDE. 
 The first input ask's for set length `Number of set elements: ` `3`, this input is followed by input request for according element index `Set element 1:` `a`, `Set element 2:` `b`, `Set element 3:` `c`. After inputting the final set element value the generated Power Set will be displayed: 
-Given the exampe of '*S*'={a, b, c}
+
+
+Given the exampe of '*S*'= {a, b, c}
 ```
 Power Set: {[], [a], [b], [a, b], [c], [a, c], [b, c], [a, b, c]}
 ```
